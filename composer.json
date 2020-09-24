@@ -24,7 +24,10 @@
         "yiisoft/yii2": "^2.0.0",
         "yiisoft/yii2-bootstrap": "^2.0.0",
         "2amigos/yii2-gallery-widget": "^1.0",
-        "bower-asset/blueimp-file-upload": "^10.3"
+        "bower-asset/blueimp-file-upload": "^10.3",
+        "bower-asset/blueimp-tmpl": "^3.1",
+        "bower-asset/blueimp-load-image": "^5.1",
+        "bower-asset/blueimp-canvas-to-blob": "^3.2"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
